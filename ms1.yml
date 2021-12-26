@@ -1,2 +1,5 @@
 my:
   greeting: Microservice Specific settting from ms1
+
+server:
+  port=8081
