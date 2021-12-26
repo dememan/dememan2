@@ -1,0 +1,18 @@
+
+my:
+  greeting:
+          "Hello World, Welcome Demelash !"
+  list:
+    values:
+      "One,Two,Three"
+  dbvalues: "{cnstr:'server=1;db soure=akusims',username:'foo',password:'pass'}"
+
+db:
+  connection:  "{cnstr:'server=1;db soure=akusims',username:'foo',password:'pass'} "
+  port: 1200
+  IP: 127.0.0.1
+
+spring:
+  cloud:
+    config:
+      uri: http://localhost:8888

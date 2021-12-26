@@ -1,0 +1,6 @@
+db:
+  connection:  "{cnstr:'server=1;db soure=akusims',username:'foo',password:'pass'} "
+  port: 1300
+  IP: 127.0.0.1
+server:
+  port: 8080
