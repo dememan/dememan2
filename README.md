@@ -1,4 +1,4 @@
-# spring-microservice-config-server
+# Spring Microservice Service Discovery (Eureka) and Config server Impl
 
-  # spring microservice Implementation with Eureka Service Discover pattern
-  # Configure server and client Implimentaiton for microservice with Git Repo
+  1. spring microservice Implementation with Eureka Service Discover pattern
+  2. Configure server and client Implimentaiton for microservice with Git Repo
