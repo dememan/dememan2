@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/microservice-demo.iml" filepath="$PROJECT_DIR$/.idea/microservice-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movie-catalog-service/movie-catalog-service.iml" filepath="$PROJECT_DIR$/movie-catalog-service/movie-catalog-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/movie-info-service/movie-info-service.iml" filepath="$PROJECT_DIR$/movie-info-service/movie-info-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-config/spring-boot-config.iml" filepath="$PROJECT_DIR$/spring-boot-config/spring-boot-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-clinet/spring-cloud-config-clinet.iml" filepath="$PROJECT_DIR$/spring-cloud-config-clinet/spring-cloud-config-clinet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-server/spring-cloud-config-server.iml" filepath="$PROJECT_DIR$/spring-cloud-config-server/spring-cloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-discovery-server/spring-cloud-discovery-server.iml" filepath="$PROJECT_DIR$/spring-cloud-discovery-server/spring-cloud-discovery-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userRating-service/userRating-service.iml" filepath="$PROJECT_DIR$/userRating-service/userRating-service.iml" />
+    </modules>
+  </component>
+</project>
